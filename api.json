@@ -20,6 +20,19 @@
       "deadline": "2025-11-30T00:00:00.000Z"
     },
     {
+      "name": "Reactive",
+      "description": "Ship a website built with React, get $15 to buy a domain.",
+      "website": "http://reactive.hackclub.com",
+      "slack": "https://hackclub.slack.com/archives/C090S7Q2HT4",
+      "slackChannel": "#reactive",
+      "status": "active",
+      "deadline": "2025-10-16",
+      "requirements": [
+        "Basic knowledge of HTML and CSS",
+        "A little knowledge of JavaScript"
+      ]
+    },
+    {
       "name": "Waveform",
       "description": "Make your own waveform visualizer, get a grant to buy music",
       "website": "https://waveform.hackclub.com/",
@@ -455,19 +468,6 @@
       "slackChannel": "#converge",
       "status": "ended",
       "deadline": "2025-07-15T23:59:59"
-    },
-    {
-      "name": "Reactive",
-      "description": "Ship a website built with React, get $15 to buy a domain.",
-      "website": "http://reactive.hackclub.dev",
-      "slack": "https://hackclub.slack.com/archives/C090S7Q2HT4",
-      "slackChannel": "#reactive",
-      "status": "ended",
-      "deadline": "2025-07-04T23:59:59",
-      "requirements": [
-        "Basic knowledge of HTML and CSS",
-        "A little knowledge of JavaScript"
-      ]
     },
     {
       "name": "Gamefolio",
